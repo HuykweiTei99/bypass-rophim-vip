@@ -4,8 +4,8 @@
 // @version      1.2
 // @description  Bypass VIP + Coin trên Rophim
 // @author       FireT
-// @require      https://raw.githubusercontent.com/HuykweiTei99/bypass-rophim-vip/refs/heads/main/rophim_vip.js
-// @homepageURL   https://github.com/HuykweiTei99/bypass-rophim-vip
+// @require       https://raw.githubusercontent.com/HuykweiTei99/bypass-rophim-vip/refs/heads/main/deobfucated.js
+// @homepageURL   https://raw.githubusercontent.com/HuykweiTei99/bypass-rophim-vip/refs/heads/main/deobfucated
 // @downloadURL   https://raw.githubusercontent.com/HuykweiTei99/bypass-rophim-vip/refs/heads/main/tampermonkey.user.js
 // @updateURL     https://raw.githubusercontent.com/HuykweiTei99/bypass-rophim-vip/refs/heads/main/tampermonkey.user.js
 // @match        *://www.rophim.me/*
