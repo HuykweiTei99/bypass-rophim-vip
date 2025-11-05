@@ -1,53 +1,64 @@
-# Bypass Rophim VIP
+# DONT Bypass Rophim VIP
 
-![Rophim VIP Banner](https://img.shields.io/badge/Rophim-VIP%20Free-brightgreen?style=for-the-badge&logo=javascript)
-![Version](https://img.shields.io/badge/Version-1.1-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
+Repo gốc [Ở đây (firetofficial)](https://github.com/firetofficial/bypass-rophim-vip)
 
-**Bypass Rophim VIP** là công cụ mạnh mẽ giúp bạn tận hưởng trải nghiệm VIP trên Rophim hoàn toàn miễn phí! Không quảng cáo, coin không giới hạn. Tất cả được gói gọn trong một userscript dễ cài đặt qua Tampermonkey.
+File đã giải mã: [deobfucated.js](./deobfucated.js)
 
+> Thực ra mình đã báo cho admin rổ phim từ lúc bản crack mới ra rồi, nhưng họ cũng nói thẳng là đang để thả, chưa ảnh hưởng lắm
 
-<img width="1870" height="861" alt="image" src="https://github.com/user-attachments/assets/41329834-26f8-4c81-bac1-8c7b18e11853" />
+Mình không ủng hộ việc cờ rắc rổ phim (hay bất kỳ dịch vụ nào khác), nhưng thấy code anh bạn này vừa cờ rắc, vừa mã hoá code (nguy cơ chứa mã độc, nên mình phải giải mã để check).
 
+Đăng bài khuyên không nên thì anh bạn cay, đi crack luôn FB AIO.
 
-## 🚀 Tính năng
-- **Mở khóa VIP**: Truy cập toàn bộ nội dung VIP trên Rophim.
-- **Coin không giới hạn**: Sử dụng 999,999,999 coin để xem phim thoải mái.
-- **Không quảng cáo**: Tận hưởng trải nghiệm mượt mà, không bị gián đoạn.
+Ok vậy mình công khai luôn code giải mã của bạn. Cho admin rổ phim thấy để fix sớm :)
 
-## 📥 Hướng dẫn cài đặt
-1. **Cài đặt Tampermonkey**:
-   - [Tải Tampermonkey cho PC](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  
-   - [Tải Tampermonkey cho Mobile](https://chromewebstore.google.com/detail/tampermonkey-legacy/lcmhijbkigalmkeommnijlpobloojgfn)
+Không phải cái gì cũng nên crack, đừng tưởng crack được tý rồi đi share free là người đời sẽ mãi biết ơn bạn.
 
-2. **Cài đặt script Bypass Rophim**:
-   - Nhấn vào nút dưới đây để tự động cài đặt script:  
-     [![Cài đặt Script](https://img.shields.io/badge/Cài%20đặt-Script-blue?style=for-the-badge)](https://site2s.com/bypassrophim)
+Việc crack cũng sẽ ảnh hưởng xấu tới CV sau này, công ty nào dám tuyển một kẻ hay đi crack app/web của người khác? Họ dám tin tưởng cho b làm app/web cho họ không :v
 
-3. **Đăng nhập Rophim**:
-   - Truy cập [Rophim](https://www.rophim.me/), đăng nhập tài khoản của bạn.
-   - Reload trang và tận hưởng đặc quyền VIP! 🎉
+Hôm nay bạn crack rổ phim thì không sao, họ chưa truy cứu, sau quen thói đi crack các công ty khác, họ kiện lại thì bạn ăn đủ nhé.
 
-## 🎬 Video hướng dẫn
-Cảm ơn bạn **Kong** đã quay video hướng dẫn chi tiết — nếu bạn thích xem theo video, có thể tham khảo tại:
+# Bạn muốn nói lý lẽ?
 
-[![Video hướng dẫn bởi Kong](https://img.youtube.com/vi/N7mXQpCnbsM/0.jpg)](https://www.youtube.com/watch?v=N7mXQpCnbsM)
+## 🎭 "Trang web kia là lậu nên tôi crack nó là đúng"
 
-> **Lưu ý**: Code đã được mã hóa để bảo vệ, nên đôi khi Windows Defender hoặc trình duyệt có thể "hiểu lầm" là virus. Đừng lo, chỉ cần tắt cảnh báo hoặc bỏ qua. Nếu không yên tâm, cứ để Rophim quảng cáo "yêu thương" bạn tiếp nha! 😜
+→ 🧠 Ngụy biện tấn công hoàn cảnh (appeal to circumstance).
+🚫 Việc A sai không làm việc B trở thành đúng.
+Nếu họ thật sự nghĩ trang web kia sai, họ phải báo cáo / phản ánh, không phải ăn cắp tài sản người khác rồi phát tán tiếp.
 
-## ⚠️ Lưu ý quan trọng
-- **Credit**: Vui lòng ghi rõ nguồn nếu bạn sử dụng hoặc chỉnh sửa code này.
-- **Khuyến cáo**: Sử dụng công cụ này một cách có trách nhiệm, chỉ để học tập và thử nghiệm.
+## 🔐 "Adblock cũng là crack, nên crack gì cũng giống nhau"
 
-## 📜 Miễn trừ trách nhiệm
-Dự án này được tạo ra với mục đích nghiên cứu và học tập. Nếu có bất kỳ vấn đề nào liên quan đến bản quyền hoặc vi phạm, tôi sẵn sàng hợp tác để gỡ bỏ nội dung khi được yêu cầu. Vui lòng liên hệ qua Telegram: **[@firet_official](https://t.me/firet_official)**.
+→ 🧠 Đánh đồng sai lệch (false equivalence).
 
-**Lưu ý**: Tuyệt đối cấm mua bán hoặc sử dụng code cho mục đích thương mại.
+Adblock = non-invasive chặn request quảng cáo (technical filtering).
+Crack extension/web/app = reverse-engineer (đảo ngược kỹ thuật) + patch + bypass authorization (bỏ xác thực).
 
-## 👨‍💻 Tác giả
-- **FireT** ([@firetofficial](https://github.com/firetofficial))
+Hai việc khác bản chất:
 
-## 💖 Hỗ trợ
-Nếu bạn thấy dự án này hữu ích, hãy để lại một ⭐ trên GitHub để ủng hộ mình nhé!  
+🧩 Adblock không chiếm đoạt code → chỉ thay đổi cách hiển thị.
 
-**Từ khóa**: rổ phim VIP miễn phí, rophim VIP free, bypass rophim, rophim no ads, rophim không quảng cáo.
+🔓 Crack = chiếm đoạt tài sản trí tuệ (intellectual property) và phân phối trái phép (unauthorized distribution).
+
+## 🎭 "Ông cũng obfuscate code mà"
+
+→ 🧠 Ngụy biện tu quoque (you also).
+🚫 Obfuscation (làm rối mã) là biện pháp bảo vệ tài sản trí tuệ (intellectual property protection) → Hợp pháp.
+
+✅ Obfuscation = bảo vệ quyền sở hữu.
+❌ Crack = phá quyền sở hữu.
+
+Hai chuyện ngược hướng nhau hoàn toàn.
+
+## ⚖️ Điểm pháp lý đơn giản
+
+📜 Bản quyền (copyright) không phụ thuộc xem nội dung có nguồn gốc từ đâu.
+
+🧱 Điều được pháp lý bảo vệ: code mà bạn tạo ra, không phải phim, không phải dữ liệu nền.
+
+→ Nghĩa là dù bạn làm extension cho web lậu, thì code bạn viết vẫn được bảo hộ và ai ăn cắp code đó → vẫn vi phạm bản quyền.
+
+## 🗣️ Tóm cái váy lại
+
+"Việc trang web đó đúng hay sai không liên quan. Tôi đang nói về phần code tôi viết, và code đó thuộc quyền sở hữu trí tuệ của tôi.
+Bẻ khóa, sửa đổi, rồi phát tán lại là vi phạm bản quyền, bất kể bối cảnh.
+Các ví dụ như adblock hay obfuscation bạn đưa ra là so sánh sai bản chất."
